@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 Descripción del Proyecto
+## 🎯 Descripción del Proyecto Desafío Alura Store
 
 Este proyecto forma parte del programa **Oracle ONE (Oracle Next Education)** en colaboración con **Alura Latam**, y consiste en un análisis completo de datos de ventas de 4 tiendas de comercio electrónico para apoyar la decisión estratégica del Sr. Juan sobre **cuál tienda debe vender**.
 
